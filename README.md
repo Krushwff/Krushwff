@@ -1,12 +1,7 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
 
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Krushwff&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
+<h1 align="center">Всем привет!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Krushwff&style=flat-square&color=blue" alt=""></p>
 
 ### :woman_technologist: &nbsp;О себе :
 
@@ -14,8 +9,8 @@
 
 - 🔭 Я Junior Front-end разработчик.
 - 🌱 Изучаю новые языки и инструменты.
-- ⚡ В свободное время решаю задачи на Codewars.[![Linkedin Badge](https://img.shields.io/badge/-Krushwf-blue?style=flat&logo=CodeWars&logoColor=white)](-------)
-- 📫 Как связаться со мной:: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Krushwf-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/krushwf)
+- ⚡ В свободное время решаю задачи на Codewars.&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Krushwf-blue?style=flat&logo=CodeWars&logoColor=white)](-------)
+- 📫 Как связаться со мной: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Krushwf-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/krushwf)
 
 ---
 
