@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Krushwff&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -12,14 +12,14 @@
 
 Я Front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России!
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 🔭 Я Junior Front-end разработчик.
+- 🌱 Изучаю новые языки и инструменты.
+- ⚡ В свободное время решаю задачи на Codewars.[![Linkedin Badge](https://img.shields.io/badge/-Krushwf-blue?style=flat&logo=CodeWars&logoColor=white)](-------)
+- 📫 Как связаться со мной:: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Krushwf-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/krushwf)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Языки и инструменты :
 
 <p>
 
