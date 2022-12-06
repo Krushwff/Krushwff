@@ -10,7 +10,7 @@
 - 🔭 Я Junior Front-end разработчик.
 - 🌱 Изучаю новые языки и инструменты.
 - ⚡ В свободное время решаю задачи на Codewars.&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Krushwf-blue?style=flat&logo=CodeWars&logoColor=white)](-------)
-- 📫 Как связаться со мной: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Krushwf-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/krushwf)
+- 📫 Как связаться со мной: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-KrushVK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/krushwf)                                                 [![Linkedin Badge](https://img.shields.io/badge/-KrushTG-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Krushtg)
 
 ---
 
