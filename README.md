@@ -8,7 +8,7 @@
   <li>SCSS/SASS</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
-  <li>React</li>
+  <li>PHP</li>
   <li>Git</li>
 </ul>
 
