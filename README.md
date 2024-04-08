@@ -5,11 +5,11 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>SCSS/SASS</li>
+  <li>MySQL</li>
   <li>JavaScript</li>
-  <li>TypeScript</li>
   <li>PHP</li>
   <li>Git</li>
+  <li>Docker</li>
 </ul>
 
 
