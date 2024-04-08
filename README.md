@@ -5,9 +5,11 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>MySQL</li>
-  <li>JavaScript</li>
   <li>PHP</li>
+  <li>Laravel</li>
+  <li>JavaScript</li>
+  <li>MySQL</li>
+  <li>Redis</li>
   <li>Git</li>
   <li>Docker</li>
 </ul>
